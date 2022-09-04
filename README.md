@@ -1,8 +1,8 @@
-                                                     ##Overview of Project
+                                          ##Overview of Project
 We used UFO sightings data stored in a JavaScript array; to display as a table. We created a filter for each data column to filter out data as we desired, thus making it dynamic. To view our page, we used HTML to show data. This project aims to provide multiple search criteria at the same to display desired data.
 ![](https://github.com/smzd/UFO_Analysis/blob/main/Resources/UFO_page.png)
 
-                                                           ##Results
+                                                ##Results
 
 When we first visit the webpage, we see an article written by Dana. Scrolling down the page on the right, we have displayed all the UFO sightings data. On the left side, we have the search option. We can filter the page using date, city, state, country, or shape. Search can be done by either inputting one or all the criteria on the search bars. 
 
@@ -16,7 +16,7 @@ When we use multiple search criteria:
 
 When we want to go back to the web page's original state, we can either clear out all the search bars or refresh the page.
 
-                                                           ##Summary
+                                                   ##Summary
 
 Drawback:
 
