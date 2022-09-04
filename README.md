@@ -4,9 +4,9 @@ We used UFO sightings data stored in a JavaScript array; to display as a table. 
 
                                                            ##Results
 
-When we first visit the webpage, we see all an article by Dana. Scrolling down the page on the right, we have displayed all the UFO sightings data. On the left side, we have the search option. We can filter the page using date, city, state, country, or shape. Search can be done by either inputting one or all the criteria on the search bars. 
+When we first visit the webpage, we see an article written by Dana. Scrolling down the page on the right, we have displayed all the UFO sightings data. On the left side, we have the search option. We can filter the page using date, city, state, country, or shape. Search can be done by either inputting one or all the criteria on the search bars. 
 
-When we use just one or date criteria:
+When we use just one search criteria:
 
 
 ![](https://github.com/smzd/UFO_Analysis/blob/main/Resources/searchBar.png)
